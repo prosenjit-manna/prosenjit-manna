@@ -19,8 +19,8 @@
 
 - JS Framework for frontend ( Expert ) 
   - React - Started work in 2021 ( 3 years )
-  - Gatsby
-  - Next js 
+  - Gatsby - Completed 2 Projects - 1.5 Years 
+  - Next js - Completed 3 projects - 1.5 years 
   - Angular 2+ - 2016 - 2021 (5 years )
   - Vue - small project randomly - More than 1 Year
   - Ionic - 2015 - 2018 - ( 3 years )
@@ -41,13 +41,30 @@
     - Theming
     - Custom Post Types, Custom Taxonomies
     - Custom Fields
-    - Options framework 
+    - Options framework
+   
+- Deployment / CI/CD
+  - AWS
+  - GCP
+ 
+- Version control
+  - Git
+    - Github
+    - Bitbucket
+    - Gitlab
+    - Azure 
+
+- Task management software
+  - Jira 
+  - Asana
+  - Trello
+  
 
 ****Others****
 - OS
-  - Mac
-  - Ubuntu
-  - Windows 
+  - Mac - 9 Years
+  - Linux - 14 years 
+  - Windows - 6 Years 
 
 [![Prosenjit Manna's Github Stats](https://github-readme-stats.vercel.app/api?username=prosenjit-manna)](https://github.com/anuraghazra/github-readme-stats)
 
