@@ -66,6 +66,6 @@
   - Linux - 14 years 
   - Windows - 6 Years 
 
-[![Prosenjit Manna's Github Stats](https://github-readme-stats.vercel.app/api?username=prosenjit-manna)](https://github.com/anuraghazra/github-readme-stats)
+[![Prosenjit Manna's Github Stats](https://github-readme-stats.vercel.app/api?username=prosenjit-manna)]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prosenjit-manna)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prosenjit-manna)]
