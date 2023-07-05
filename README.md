@@ -18,7 +18,9 @@
   
 
 - JS Framework for frontend ( Expert ) 
-  - React - Started work in 2021 ( 3 years ) 
+  - React - Started work in 2021 ( 3 years )
+  - Gatsby
+  - Next js 
   - Angular 2+ - 2016 - 2021 (5 years )
   - Vue - small project randomly - More than 1 Year
   - Ionic - 2015 - 2018 - ( 3 years )
