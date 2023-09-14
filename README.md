@@ -1,6 +1,6 @@
 **About me** 
 
-- 💼 FrontEnd & QA Lead at [Itobuz](https://itobuz.com/)
+- 💼 Software engineer at [Itobuz](https://itobuz.com/)
 
 - ❤️ I love writing TypeScript and building fun experiments on type-level
 
