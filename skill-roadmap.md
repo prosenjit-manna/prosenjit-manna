@@ -236,7 +236,7 @@ This roadmap outlines the skills, technologies, and learning path to become a pr
 
 ### Next Quarter Goals
 - [ ] Python for backend development  
-  - [ ] https://www.youtube.com/watch?v=_uQrJ0TkZlc
+  - [ ] https://www.youtube.com/watch?v=K5KVEU3aaeQ
 
 ### 6-Month Goals
 - [ ] Kubernetes in Production (Planned: MM/YYYY)
