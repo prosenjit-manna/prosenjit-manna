@@ -233,10 +233,11 @@ This roadmap outlines the skills, technologies, and learning path to become a pr
 - Teach others and contribute to community
 
 ## 11. Planned Learning Path
+  - [ ] Python for backend development  
+   - [ ] https://www.youtube.com/watch?v=K5KVEU3aaeQ
 
 ### Next Quarter Goals
-- [ ] Python for backend development  
-  - [ ] https://www.youtube.com/watch?v=K5KVEU3aaeQ
+  - [ ] React native 
 
 ### 6-Month Goals
 - [ ] Kubernetes in Production (Planned: MM/YYYY)
