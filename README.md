@@ -6,6 +6,16 @@
 - ❤️ I love writing TypeScript and building fun experiments on type-level
 - 💬 Ask me about anything [here](https://github.com/prosenjit-manna/prosenjit-manna/issues)
 
+
+## Experiences 
+
+### Itobuz 
+I’m a full-time developer at <a href="https://itobuz.com/">Itobuz</a>, where we craft seamless digital experiences through thoughtful design and robust development. We specialise in custom webapp development, apps.
+
+### Designstudiouiux
+I’m a full-time developer at <a href="https://www.designstudiouiux.com/">Design Studio UI/UX</a>, where we craft seamless digital experiences through thoughtful design and robust development. We specialise in building high-performance websites, apps, and interfaces for forward-thinking brands.
+
+
 ***My Technical Skills***
 
 **** Web/Hybrid Mobile App Development skills ****
