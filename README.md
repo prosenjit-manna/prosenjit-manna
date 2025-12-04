@@ -83,7 +83,3 @@ I’m a full-time developer at <a href="https://www.designstudiouiux.com/">Desig
    - Mac - 9 Years
    - Linux - 14 years
    - Windows - 6 Years
-
-![Prosenjit Manna's Github Stats](https://github-readme-stats.vercel.app/api?username=prosenjit-manna)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prosenjit-manna)
