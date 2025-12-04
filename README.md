@@ -44,11 +44,11 @@ I’m a full-time developer at <a href="https://www.designstudiouiux.com/">Desig
    - Codecept ( 3 years )
    - Puppeteer ( 1.5 years )
 
-- JS framework ( Beginner )
+- JS framework ( Expert )
 
    - Express
    - Nest
-   - Node js
+   - Node.js
 
 - CMS
 
