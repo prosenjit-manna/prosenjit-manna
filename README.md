@@ -26,7 +26,7 @@ I’m a full-time developer at <a href="https://www.designstudiouiux.com/">Desig
    - Typescript
    - HTML
    - CSS
-   - Php
+   - Php - Basics
 
 - JS Framework for frontend ( Expert )
 
