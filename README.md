@@ -1,13 +1,12 @@
 **About me**
+This is a short introduction to my development skills. You can go through the details about me.
 
-### Sponsor for opensource development
-
-- 💼 Software engineer at [Itobuz](https://itobuz.com/)
-- ❤️ I love writing TypeScript and building fun experiments on type-level
 - 💬 Ask me about anything [here](https://github.com/prosenjit-manna/prosenjit-manna/issues)
 
 
 ## Experiences 
+### IBM
+I am now working at IBM India Private Ltd as an Application Developer. 
 
 ### Itobuz 
 I’m a full-time developer at <a href="https://itobuz.com/">Itobuz</a>, where we craft seamless digital experiences through thoughtful design and robust development. We specialise in custom webapp development, apps.
